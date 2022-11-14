@@ -129,12 +129,12 @@ public class B_Switch {
 		case 7 : 
 		case 8 : 
 		case 10: 
-		case 12: System.out.println("해당 달은 31일 까지입니다.");break;
+		case 12: System.out.println("해당 달은 31일 까지입니다."); break;
 		case 4 : 
 		case 6 : 
 		case 9 :  
-		case 11: System.out.println("해당 달은 30일 까지입니다.");break;
-		case 2 : System.out.println("해당 달은 28일 또는 29일 까지입니다.");break;
+		case 11: System.out.println("해당 달은 30일 까지입니다."); break;
+		case 2 : System.out.println("해당 달은 28일 또는 29일 까지입니다."); break;
 		default: System.out.println("반드시 1월~12월까지 입력해야합니다.");
 		}
 		

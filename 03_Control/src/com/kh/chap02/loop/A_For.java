@@ -170,7 +170,7 @@ public class A_For {
 		// Math.random() * 출력을하고자하는갯수 + 시작하고싶은수 
 		// 시작수 ~ (시작수 + 출력을하고자하는갯수)
 		
-		int random = (int) (Math.random() * 1000 +143); 
+		int random = (int) (Math.random() * 10 +1); 
 		System.out.println(random);
 		
 		int sum = 0;
